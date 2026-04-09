@@ -1,0 +1,2 @@
+# aimbot.lua
+adads
